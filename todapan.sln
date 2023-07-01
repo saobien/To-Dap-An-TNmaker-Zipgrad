@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MINH_TODA", "WindowsApplication1\MINH_TODA.vbproj", "{86C4C6F2-11F2-4028-8C80-012741203EB8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TickZT", "Setup\Setup_TickZT\Setup_TickZT.vdproj", "{A3A901F0-D3C1-4412-A2E2-7879B6BFAFF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{86C4C6F2-11F2-4028-8C80-012741203EB8}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{A3A901F0-D3C1-4412-A2E2-7879B6BFAFF8}.CD_ROM|Any CPU.ActiveCfg = Release
+		{A3A901F0-D3C1-4412-A2E2-7879B6BFAFF8}.Debug|Any CPU.ActiveCfg = Release
+		{A3A901F0-D3C1-4412-A2E2-7879B6BFAFF8}.DVD-5|Any CPU.ActiveCfg = Debug
+		{A3A901F0-D3C1-4412-A2E2-7879B6BFAFF8}.Release|Any CPU.ActiveCfg = Release
+		{A3A901F0-D3C1-4412-A2E2-7879B6BFAFF8}.SingleImage|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
