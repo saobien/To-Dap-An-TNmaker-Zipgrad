@@ -1,0 +1,17 @@
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\MINH_TODA.vbproj.ResolveComReference.cache
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\MINH_TODA.vbproj.GenerateResource.Cache
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\PdfSharp.dll
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\PdfSharp.xml
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\TickZT.exe.config
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\TickZT.exe.manifest
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\TickZT.application
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\TickZT.exe
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\TickZT.pdb
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\bin\Debug\TickZT.xml
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.Form1.resources
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.Resources.resources
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.exe.manifest
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.application
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.exe
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.xml
+C:\Users\Win7\Desktop\thu nghiem\todapan\WindowsApplication1\obj\Debug\TickZT.pdb
